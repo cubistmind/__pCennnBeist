@@ -37,7 +37,7 @@ An adjustable step-down (buck) DC-DC converter PCB built around the XL4015 switc
 
 ## Building the board
 
-1. Open `dc-dc booster.kicad_pro` in KiCad 10.
+1. Open `xl4015-buck-converter.kicad_pro` in KiCad 10.
 2. Run DRC (**Inspect → Design Rules Checker**) and review any outstanding warnings before ordering.
 3. Generate fabrication files: **File → Plot** for Gerbers, then **Generate Drill Files** for the Excellon drill file.
 4. Send the Gerber + drill package to your board house (2-layer, standard 1.6mm thickness works with the default footprints).
