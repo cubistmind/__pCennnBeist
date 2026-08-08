@@ -30,10 +30,10 @@ An adjustable step-down (buck) DC-DC converter PCB built around the XL4015 switc
 
 ## Repo contents
 
-- `dc-dc booster.kicad_pro` — KiCad project file
-- `dc-dc booster.kicad_sch` — Schematic
-- `dc-dc booster.kicad_pcb` — PCB layout
-- `dc-dc booster.zip` — Gerbers / fabrication files
+- `xl4015-buck-converter.kicad_pro` — KiCad project file
+- `xl4015-buck-converter.kicad_sch` — Schematic
+- ` xl4015-buck-converter.kicad_pcb` — PCB layout
+- `xl4015-buck-converter.zip` — Gerbers / fabrication files
 
 ## Building the board
 
