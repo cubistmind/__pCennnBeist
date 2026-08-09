@@ -1,4 +1,5 @@
 # DC-DC Buck Converter (XL4015)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b6917811-0649-499c-bd0a-3a86fb00c0af" />
 
 An adjustable step-down (buck) DC-DC converter PCB built around the XL4015 switching regulator. Designed in KiCad 10.
 
@@ -13,6 +14,7 @@ An adjustable step-down (buck) DC-DC converter PCB built around the XL4015 switc
 | Switching frequency | 180 kHz |
 | Max output current | 5A (thermal/layout dependent) |
 | Board | 2-layer |
+
 
 ## Key components
 
