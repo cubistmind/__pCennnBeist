@@ -1,6 +1,6 @@
 # DC-DC Buck Converter (XL4015)
-<img width="1656" height="928" alt="xl4015-buck-converter" src="https://github.com/user-attachments/assets/09e384bd-ffe7-449b-ba7c-8ab7de452837" />
-<img width="1656" height="928" alt="xl4015-buck-converter_backside" src="https://github.com/user-attachments/assets/69ed727c-bf12-4ba5-aca7-0740d61769b1" />
+<img width="1656" height="928" alt="xl4015-buck-converter" src="https://github.com/user-attachments/assets/09e384bd-ffe7-449b-ba7c-8ab7de452837" /> <img width="1656" height="928" alt="xl4015-buck-converter_backside" src="https://github.com/user-attachments/assets/69ed727c-bf12-4ba5-aca7-0740d61769b1" />
+
 
 An adjustable step-down (buck) DC-DC converter PCB built around the XL4015 switching regulator. Designed in KiCad 10.
 
