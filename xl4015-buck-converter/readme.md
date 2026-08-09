@@ -1,5 +1,6 @@
 # DC-DC Buck Converter (XL4015)
-| !<img width="1656" height="928" alt="xl4015-buck-converter" src="https://github.com/user-attachments/assets/09e384bd-ffe7-449b-ba7c-8ab7de452837" /> |  | !<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e340dd19-6d5b-4345-be4e-6b3867c41638" /> |
+! <img width="1656" height="928" alt="xl4015-buck-converter" src="https://github.com/user-attachments/assets/09e384bd-ffe7-449b-ba7c-8ab7de452837" />
+! <img width="1656" height="928" alt="xl4015-buck-converter_backside" src="https://github.com/user-attachments/assets/da3d77bd-98e5-4cd6-a35d-5254d0fe3b73" />
 
 
 
