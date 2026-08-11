@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Library") (type "KiCad") (uri "${KIPRJMOD}/ul_MKE04Z8VFK4/Library.pretty") (options "") (descr ""))
+	(lib (name "ul_MKE04Z8VFK4") (type "KiCad") (uri "D:/kicad projects/My ART/ul_MKE04Z8VFK4.pretty") (options "") (descr ""))
+)
