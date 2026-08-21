@@ -1,6 +1,6 @@
-# PCB business card - StuckAtPrototype
+# PCB gitcard -stuckatprototype
 
-A custom PCB based "business" card that lets you play a version of Flappy Bird
+A custom PCB based "emniii😞😞" card that lets you play a version of Flappy Bird
 
 ## Project Structure
 The project consists of
